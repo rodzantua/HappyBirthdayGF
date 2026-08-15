@@ -1,23 +1,23 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re sososo strong and caring, babyyy and soon I will always be by your side and harapin natin lahat together!! 💖", 
+        text: "You’re sososo strong, babyyy and soon I will always be by your side and harapin natin lahat together!! 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "My unann, the most caring and comfortable babyyy everr! Imissyouuu my safespace! 🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "Sooo smartt and responsible, IMISSSMYYMOMMYYYY, always caring, strict, and soo maasahan! hihi 😘", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
-        emoji: "🌟",
+        text: "My favorite food, stayy yummy, pretty, and cutiee, I am so thankful na merong ginawa si Lord na ganyan kaganda but sooo BAITTT😘", 
+        emoji: "😘",
         gif: "gif2.gif"
     }
 ];
