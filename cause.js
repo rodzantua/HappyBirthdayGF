@@ -16,7 +16,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "My favorite food, stayy yummy, pretty, and cutiee, I am so thankful na merong ginawa si Lord na ganyan kaganda but sooo BAITTT😘", 
+        text: "My favorite food, stayy yummyyy, pretty, and cutiee, I am so thankful na merong ginawa si Lord na ganyan kaganda but sooo BAITTT😘", 
         emoji: "😘",
         gif: "gif2.gif"
     }
