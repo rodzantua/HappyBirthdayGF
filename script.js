@@ -6,7 +6,7 @@ document.addEventListener('mousemove', (e) => {
 });
 
 // Typing effect for greeting
-const greetingText = "To the strongest, most beautiful, and amazing person ever!💖";
+const greetingText = "To the strongest, most beautiful, and amazing hooman ever!💖";
 const greetingElement = document.querySelector('.greeting');
 let charIndex = 0;
 
