@@ -6,7 +6,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "My unann, the most caring and comfortable babyyy everr! Imissyouuu my safespace! 🌸 ", 
+        text: "My unann, the most caring and comfortable babyyy everr! Imissyouuu my safespace! 🌸", 
         emoji: "💗",
         gif: "gif2.gif"
     },
